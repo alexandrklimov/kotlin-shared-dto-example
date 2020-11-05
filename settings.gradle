@@ -1,0 +1,4 @@
+rootProject.name = 'kotlin-shared-dto-example'
+include 'client'
+include 'server'
+include 'shared'
